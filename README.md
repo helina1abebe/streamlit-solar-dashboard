@@ -1,5 +1,5 @@
 # ☀️ Cross-Country Solar Analysis Dashboard
-
+## OPEN IN STREAMLIT: https://app-solar-dashboard-helina.streamlit.app/
 An interactive Streamlit dashboard for visualizing and comparing solar energy potential across Benin, Sierra Leone, and Togo using Global Horizontal Irradiance (GHI) data.
 
 ## Features
