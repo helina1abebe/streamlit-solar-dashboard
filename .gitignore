@@ -1,0 +1,21 @@
+# Ignore virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit config
+.streamlit/
+
+# VSCode
+.vscode/
